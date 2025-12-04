@@ -9,6 +9,8 @@ Frontend: React.js, Blade, JavaScript, HTML, Figma
 
 Backend: Python, Django, LeafPHP, Flask, PHP, Lua, Java, C++
 
+Ferraments: WorkbenchSQL, DBeaver, Postman, Eclipse, VSCode, Docker
+
 🚀 O que eu faço
 
 Gosto de criar:
