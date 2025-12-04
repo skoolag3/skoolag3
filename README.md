@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Olá!
 
-<!--
-**skoolag3/skoolag3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Gabriel um desenvolvedor focado em desenvolver aplicações com diferenciais, pensar fora da caixa e solucionando problemas.
+Atualmente estou planejando meu TCC, desenvolvendo uma landing page e testando um projeto pessoal em Lua.
 
-Here are some ideas to get you started:
+🔧 Minha Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React.js, Blade, JavaScript, HTML, Figma
+Backend: Python, Django, LeafPHP, Flask, PHP, Lua, Java, C++
+
+🚀 O que eu faço
+
+Gosto de criar:
+
+projetos/aplicações web completos
+automoções e soluções
+MVPs para validar ideias e testar conceitos
+
+🎉 Curiosidades
+Tenho muitas ideias quando estou focado em um projeto
+Amo animes, games e tecnologia
+Consigo trabalhar por horas quando estou empolgado com um projeto
