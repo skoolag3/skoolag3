@@ -6,6 +6,7 @@ Atualmente estou planejando meu TCC, desenvolvendo uma landing page e testando u
 🔧 Minha Stack
 
 Frontend: React.js, Blade, JavaScript, HTML, Figma
+
 Backend: Python, Django, LeafPHP, Flask, PHP, Lua, Java, C++
 
 🚀 O que eu faço
